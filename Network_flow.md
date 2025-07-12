@@ -30,3 +30,4 @@ This ensures the server is reachable **without exposing its real internal IP** t
 
 - The return traffic follows the reverse path:  
   **ASA → Network_Edge_Router → NAT Gateway → Cloudflare → ISP → User**
+<img width="1819" height="759" alt="image" src="https://github.com/user-attachments/assets/690b2c7a-dbc0-4b05-86df-c93cdeaba85a" />
